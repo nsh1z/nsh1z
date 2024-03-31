@@ -18,7 +18,7 @@
 # <h3 align="center">🧰 Learning...</h3>
 <p align="center">
   <a href="https://www.lua.org" target="_blank">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg" alt="Lua" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/354020/lua.svg" alt="Lua" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
