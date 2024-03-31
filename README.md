@@ -9,7 +9,7 @@
  **∗**🌎 Country: Argentina
  
  ## 💥 Social Media
-**∗**🔮: **Website:** [nsh.com.ar]([https://nsh.com.ar](https://about.me/nsh))
+**∗**🔮: **Website:** https://about.me/nsh
 
 **∗**💿: **Discord:** **@nsh1.**
 
