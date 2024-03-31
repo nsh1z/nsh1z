@@ -9,9 +9,9 @@
  **∗**🌎 Country: Argentina
  
  ## 💥 Social Media
-**∗**🔮: **Website:** [nsh.com.ar](https://nsh.com.ar)
+**∗**🔮: **Website:** [nsh.com.ar]([https://nsh.com.ar](https://about.me/nsh))
 
-**∗**💿: **Discord:** **@nsh#0001**
+**∗**💿: **Discord:** **@nsh1.**
 
 **∗**🎥: **Twitch:** [twitch.tv/nsh1](https://twitch.tv/nsh1)
 
@@ -30,4 +30,3 @@
 
 --------------------------------------------------------------------
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsh1z&show_icons=true&locale=en" alt="nsh1z" /></p>
