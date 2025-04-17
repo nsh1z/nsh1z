@@ -13,8 +13,6 @@
 
 **∗**💿: **Discord:** **@nsh1.**
 
-**∗**🎥: **Twitch:** [twitch.tv/nsh1](https://twitch.tv/nsh1)
-
 # <h3 align="center">🧰 Learning...</h3>
 <p align="center">
   <a href="https://www.lua.org" target="_blank">
